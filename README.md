@@ -1,6 +1,6 @@
 # CardIAca
 <p align="center">
-  <img src="./CardIAca.png" alt="Logo del Progetto"/>
+  <img src="./Images/CardIAca.png" alt="Logo del Progetto"/>
 </p>
 <p align = "center">
  Artficial Intelligence to prevent Heart Attack 
@@ -24,4 +24,17 @@ of the waiting time once you have made the medical examination, giving the possi
 * [Pandas](https://pandas.pydata.org/) - An Open Source Library for the Data Preparation and Analysis
 
 # Other Informations
-For any additional information about the GUI, the use of the AI or the deployment, these further information can be found in the repository of [MediCare](https://github.com/Giodvk/MediCare), the environment of CardIAca.
+For any additional information about the GUI, the use of the AI or the deployment, these further information can be found in the repository of [MediCare](https://github.com/Giodvk/MediCare), the environment of CardIAca, here some samples.
+<p align="center">
+  Home Page AI Module
+</p>
+<p align="center">
+  <img src="./Images/presentazione.png" alt="Home Page"/>
+</p>
+<br>
+<p align="center">
+  Form for the Prediction
+</p>
+<p align="center">
+  <img src="./Images/formAI.png" alt="Form AI"/>
+</p>
