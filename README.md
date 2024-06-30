@@ -24,7 +24,7 @@ of the waiting time once you have made the medical examination, giving the possi
 * [Pandas](https://pandas.pydata.org/) - An Open Source Library for the Data Preparation and Analysis
 
 # Other Informations
-For any additional information about the GUI, the use of the AI or the deployment, these further information can be found in the repository of [MediCare](https://github.com/Giodvk/MediCare), the environment of CardIAca, here some samples.
+For any additional information about the GUI, the use of the AI or the deployment, these further information can be found in the repository of [MediCare](https://github.com/Giodvk/MediCare), the environment of CardIAca, here some preview.
 <p align="center">
   Home Page AI Module
 </p>
