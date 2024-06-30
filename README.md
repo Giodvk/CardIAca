@@ -11,7 +11,7 @@
 
 # Introduction
 The main goal of CardIAca is to provide a reliable Artificial Intelligence to help patients when they are approaching to understand if there is a risk of an Heart Attack. The main benefit of this AI is the reduce
-of the waiting time once you have made the medical examination, giving the possibility to prevent as soon as possible the risk of the Heart Attack.
+of the waiting time once you have made the medical examination, giving the possibility to prevent as soon as possible the risk of the Heart Attack. The documentation and the main code of the several agents is provided in this Repository.
 
 ## Authors
 * **Giovanni Casaburi**         - * Head Developer* - [Giodvk](https://github.com/Giodvk)
